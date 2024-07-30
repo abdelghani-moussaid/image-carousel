@@ -1,0 +1,12 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.slide img {
+  height: 400px;
+  width: auto;
+  display: block;
+}
